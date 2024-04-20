@@ -1,6 +1,6 @@
 {
-  "name": "@test/simple-template",
-  "version": "1.0.15",
+  "name": "@erboladaiteas/voluptas-reiciendis-veritatis-suscipit",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,47 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/erboladaiteas/voluptas-reiciendis-veritatis-suscipit.git"
   },
   "dependencies": {
+    "@dramateas/facilis-quae-omnis-consequatur": "^1.0.0",
+    "@dramateas/magni-explicabo-esse-magnam": "^1.0.0",
+    "@dramateas/quis-nisi-error-quos": "^1.0.0",
+    "@dramateas/quos-aut-natus-odit": "^1.0.0",
+    "@dramateas/recusandae-molestiae-mollitia-modi": "^1.0.0",
+    "@dramateas/recusandae-perferendis-accusantium-architecto": "^1.0.0",
+    "@dramateas/unde-porro-quidem-distinctio": "^1.0.0",
+    "@dramateas/ut-distinctio-aliquam-est": "^1.0.0",
+    "@erboladaiteas/at-officiis-nostrum-odit": "^1.0.0",
+    "@erboladaiteas/corporis-iusto-autem-voluptate": "^1.0.0",
+    "@erboladaiteas/dolorem-quasi-provident-expedita": "^1.0.0",
+    "@erboladaiteas/mollitia-vero-consequatur-nihil": "^1.0.0",
+    "@erboladaiteas/quasi-ullam-placeat-consequuntur": "^1.0.0",
+    "@erboladaiteas/tempore-repudiandae-ullam-nulla": "^1.0.0",
+    "@juiggitea/aperiam-facilis-molestias-mollitia": "^1.0.0",
+    "@juiggitea/corporis-doloribus-alias-voluptas": "^1.0.0",
+    "@juiggitea/possimus-impedit-est-sint": "^1.0.0",
+    "@juiggitea/possimus-quos-sint-dolorem": "^1.0.0",
+    "@juiggitea/praesentium-porro-voluptates-officiis": "^1.0.0",
+    "@juiggitea/sapiente-soluta-minima-fuga": "^1.0.0",
+    "@juiggitea/ut-nostrum-temporibus-autem": "^1.0.0",
+    "@kollusietea/ad-commodi-temporibus-ex": "^1.0.0",
+    "@kollusietea/consequuntur-nam-tempora-expedita": "^1.0.0",
+    "@kollusietea/incidunt-veniam-maxime-dicta": "^1.0.0",
+    "@kollusietea/neque-officiis-molestias-a": "^1.0.0",
+    "@kollusietea/quidem-enim-ad-numquam": "^1.0.0",
+    "@kollusietea/saepe-iure-soluta-facilis": "^1.0.0",
+    "@kollusietea/vero-fugit-voluptatem-accusamus": "^1.0.0",
+    "@kollusietea/voluptate-porro-magnam-et": "^1.0.0",
+    "@swenkertrea/asperiores-suscipit-saepe-hic": "^1.0.0",
+    "@swenkertrea/corporis-consequuntur-qui-esse": "^1.0.0",
+    "@swenkertrea/fugiat-consequatur-et-occaecati": "^1.0.0",
+    "@swenkertrea/id-earum-blanditiis-ullam": "^1.0.0",
+    "@swenkertrea/sed-ducimus-consectetur-maxime": "^1.0.0",
+    "@swenkertrea/ut-illo-aliquid-illum": "^1.0.0",
+    "@zittertea/aliquam-asperiores-veritatis-totam": "^1.0.0",
+    "@zittertea/dignissimos-harum-sint-alias": "^1.0.0",
+    "@zittertea/minima-nisi-placeat-cupiditate": "^1.0.0",
+    "@zittertea/rerum-totam-officia-laudantium": "^1.0.0"
   }
 }
